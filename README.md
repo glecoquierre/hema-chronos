@@ -21,6 +21,11 @@
 |---------------------------|-------------------------------|-----------|
 | title (original)          |                               |           |
 | title (english)           |                               |           |
+| alternative title 1       |                               |           |
+| alternative title 2       |                               |           |
+| alternative title 3       |                               |           |
+| alternative title 4       |                               |           |
+| alternative title 5       |                               |           |
 | reference                 |                               |           |
 | language(s)               |                               |           |
 | date                      | YYYY / YYYY-MM-JJ             |           |
